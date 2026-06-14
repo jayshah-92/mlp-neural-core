@@ -12,8 +12,8 @@ plt.style.use('./deeplearning.mplstyle')
 
 
 def load_data():
-    X = np.load("data/X.npy")
-    y = np.load("data/y.npy")
+    X = np.load("input_data/X.npy")
+    y = np.load("input_data/y.npy")
     return X, y
 
 def plt_act_trio():
