@@ -1,4 +1,4 @@
-# MLP Neural Core
+# MLP Neural Core 
 
 *A multi-class neural network classifier for handwritten digit recognition constructed with TensorFlow and Keras.*
 

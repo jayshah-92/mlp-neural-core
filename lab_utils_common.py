@@ -1,5 +1,5 @@
 """
-lab_utils_common
+lab_utils_common 
    contains common routines and variable definitions
    used by all the labs in this week.
    by contrast, specific, large plotting routines will be in separate files
@@ -7,7 +7,7 @@ lab_utils_common
    those files will import this file
 """
 import copy
-import math
+import math 
 import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.patches import FancyArrowPatch
